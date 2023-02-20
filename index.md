@@ -8,6 +8,6 @@
 $ git init
 Initialized empty Git Repository
 ```
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
 - [ ] Introduce myself to the world
